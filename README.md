@@ -1,5 +1,4 @@
 # Harmonic_Combinations
-### Technically permutations and combinations but who's counting :)
 This is a small program or script which takes in an input of a 4-note jazz pattern and outputs every combination including harmonic constraints for necessary downbeat resonance. 
 This is typically on beats 1 and 2 if played as eighth notes in 2 beats per chord or 1 and 3 if played as quarter notes in a whole measure.
 
